@@ -1,12 +1,11 @@
 # Practica01-MiBlog
 1. Crear un repositorio en GitHub
- ![alt text](https://raw.githubusercontent.com/Sterling01/Practica01-MiBlog/master/informe/aa.png)
+![alt text](https://raw.githubusercontent.com/Sterling01/Practica01-MiBlog/master/informe/aa.png)
 2. Etiquetas HTML utilizadas
-Para la cabecera se utilizó la etiqueta <header></header> con una barra de navegación para todos los otros archivos.
- ![alt text](https://github.com/Sterling01/Practica01-MiBlog/blob/master/informe/b.png?raw=true)
-
+Para la cabecera se utilizó la etiqueta <header></header> con una barra de navegación para todos los otros archivos.<br />
+![alt text](https://github.com/Sterling01/Practica01-MiBlog/blob/master/informe/b.png?raw=true)
 Para la navegación dentro de la misma página se utilizó <nav></nav> que se dirige a diferentes partes del documento mediante los identificadores.
- 
+![alt text](https://github.com/Sterling01/Practica01-MiBlog/blob/master/informe/c.png?raw=true)
 Se tiene dos secciones <section></section> en la primera sección se tiene un articulo <article></article> y dos apartados <aside></aside>.  Dentro de este artículo se tiene
 •	Una tabla. Con <table> la tabla en general <tr> que son las filas <th> y <td> para las columnas.
  
