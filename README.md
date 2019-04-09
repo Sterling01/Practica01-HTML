@@ -52,8 +52,7 @@ Pie de página con información del estudiante con footer<br />
 ![alt text](https://github.com/Sterling01/Practica01-MiBlog/blob/master/informe/v.png?raw=true)<br /> 
 <strong>RESULTADO(S) OBTENIDO(S):</strong> Organizar de mejor manera un sitio web y colocar el contenido en las partes más adecuadas de la página. Utilizar las etiquetas actualizadas de html5. Colocar la información de quien desarrolla la página web en la parte inferior de la misma. Utilizar etiquetas para agregar videos<br />
 <strong>CONCLUSIONES:</strong> Se organiza el contenido de una página web de mejor manera por que esta se encuentra diseñada para tener texto en un artículo apartados en los que se pueden colocar imágenes, videos, tablas, listas. Hacer uso de nuevas etiquetas como iframe y otras de texto.<br />
-<strong>
-Información de GitHub<br />
+<strong>Información de GitHub<br />
 Usuario: Sterling01<br />
 URL MiBlog: https://github.com/Sterling01/Practica01-MiBlog.git<br />
 URL Curbside: https://github.com/Sterling01/Tutorial-01-Curbside-Thai.git<br />
