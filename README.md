@@ -1,101 +1,58 @@
 # Practica01-MiBlog
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="keywords" content="automovilismo, formula 1, nascar, dakar" />
-        <title>GX Motor</title>
-    </head>
-    <body>
-        <header id="header">
-            <a href="index.html"><img src="images/header.jpg" alt="GX Motor"></a>
-            <nav>
-                <ul>
-                    <li><a href="index.html">Pagina Inicial</a></li>
-                    <li><a href="formula1.html">Formula 1</a></li>
-                    <li><a href="nascar.html">Nascar</a></li>
-                    <li><a href="dakar.html">Dakar</a></li>
-                    <li><a href="motogp.html">Moto GP</a></li>
-                    <li><a href="acercade.html">Acerca de</a></li>           
-                </ul>
-            </nav>
-        </header>
-        <nav>
-            <ul>
-                <li><a href="index.html#header">Inicio</a></li>
-                <li><a href="index.html#section1">Seccion 1</a></li>
-                <li><a href="index.html#article">Articulo</a></li>
-                <li><a href="index.html#section2">Seccion 2</a></li>
-                <li><a href="index.html#footer">Informacion</a></li>       
-            </ul>
-        </nav>
-        <section id="section1">   
-            <h1>Section 1</h1>
-            <article id="article">
-                <table border="1">
-                    <caption>Titulo de tabla</caption>
-                    <tr>
-                        <th rowspan="2">Tabla Avanzada</th>
-                        <th colspan="2">Cabecera Multiples Columnas</th>
-                    </tr>
-                    <tr>
-                        <th>Primera Col. Cab.</th>
-                        <th>Segunda Col. Cab.</th>
-                    </tr>
-                    <tr>
-                        <th>Fila 1</th>
-                        <td>Fila 1 Columna 1</td>
-                        <td>Fila 1 Columna 2</td>
-                    </tr>
-                    <tr>
-                        <th>Fila 2</th>
-                        <td>Fila 2 Columna 1</td>
-                        <td>Fila 2 Columna 2</td>
-                    </tr>
-                    <tr>
-                        <td colspan="3">Pie de tabla.</td>
-                    </tr>
-                </table>
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/0VjWY--QdMA" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                <!--Lista ordenada-->
-                <ol>
-                    <li value="1">Autralia</li>
-                    <li>Bahrein</li>
-                    <li>China</li>
-                    <li>Azerbaiyan</li>
-                    <li>España</li>             
-                </ol>
-                <!--Lista desordenada-->
-                <ul>
-                    <li>Elemento 1 </li>
-                    <li>Elemento 2 </li>
-	                <li>Elemento 3 </li>
-                    <li>Elemento 4 </li>
-                    <li>Elemento 5 </li>
-                </ul>
-            </article>
-            <aside>
-                <img src="images/leclerc.jpg" alt="">
-            </aside>            
-            <aside>
-                <img src="images/williams.jpg" alt="">
-            </aside>   
-        </section>        
-        <section id="section2"> 
-            <h1>Section 2</h1>
-            <p>El <strong>automovilismo</strong> es uno de los espectáculos más populares del mundo. En la mayoría de las modalidades, los automóviles deben completar un recorrido en el menor tiempo posible, o bien recorrer un circuito la mayor cantidad de veces en un tiempo fijo. Existen otras disciplinas que tienen objetivos distintos, por ejemplo el drifting, donde los pilotos deben realizar derrapes espectaculares. El automovilismo es uno de los espectáculos más populares del mundo y algunas competiciones, como por ejemplo la <em>Fórmula 1</em>, cuentan con más seguidores que muchos otros deportes. Así mismo es el que mueve más dinero, involucrando a un gran número de empresas, fabricantes, deportistas, ingenieros y patrocinantes.<br />
-            Los ingenieros desarrollan las últimas tecnologías en motores, aerodinámica, suspensión y neumáticos para lograr el máximo rendimiento; estos avances han beneficiado a la industria automotriz, con los neumáticos radiales y el turbocompresor, así como otros adelantos.</p>
-            <aside>
-                <img src="images/motor.jpg" alt="">
-            </aside>
-        </section>       
-        <footer id="footer">
-            <p>Stalin Santiago Figueroa Sacoto - Universidad Politecnica Salesiana</p>
-            <p>Telefono: <a href="tel:+593967515856">0967515856</a></p>
-            <p>Email: <a href="mailto:sfigueroas1@est.ups.edu.ec">sfigueroas1@est.ups.edu.ec</a></p>
-            <p>&copy;Todos los derechos reservados</p>
-            <p>Last updated at: <time datetime="2019-04-07T16:25">April 7 2019 at 4:25 p.m.</time></p>
-        </footer>        
-    </body>    
-</html>
+1. Crear un repositorio en GitHub
+![alt text](https://raw.githubusercontent.com/Sterling01/Practica01-MiBlog/master/informe/aa.png)
+2. Etiquetas HTML utilizadas<br />
+Para la cabecera se utilizó la etiqueta header con una barra de navegación para todos los otros archivos.<br />
+![alt text](https://github.com/Sterling01/Practica01-MiBlog/blob/master/informe/b.png?raw=true)<br />
+Para la navegación dentro de la misma página se utilizó nav que se dirige a diferentes partes del documento mediante los identificadores.<br />
+![alt text](https://github.com/Sterling01/Practica01-MiBlog/blob/master/informe/c.png?raw=true)<br />
+Se tiene dos secciones section en la primera sección se tiene un articulo <article></article> y dos apartados aside. Dentro de este artículo se tiene<br />
+•	Una tabla. Con table la tabla en general tr que son las filas th y td para las columnas.
+![alt text](https://github.com/Sterling01/Practica01-MiBlog/blob/master/informe/d.png?raw=true)<br />
+•	Un video de YouTube con la etiqueta iframe
+![alt text](https://github.com/Sterling01/Practica01-MiBlog/blob/master/informe/e.png?raw=true)<br />
+•	Listas ordenada y desordenadas. La lista ordenada con ul y la ordenada con ol.
+![alt text](https://github.com/Sterling01/Practica01-MiBlog/blob/master/informe/f.png?raw=true)<br />
+•	Cinco etiquetas de texto
+-Strong que pone el texto en negrita
+-Br que da un salto de linea 
+-Em da un estilo cursiva al texto 
+-Time para representar un texto en formato de fecha u hora.
+-I Cursiva al texto
+Imágenes dentro de cada articulo
+![alt text](https://github.com/Sterling01/Practica01-MiBlog/blob/master/informe/g.png?raw=true)<br /> 
+Segunda sección con un apartado <aside></aside>
+ 
+Pie de página con información del estudiante con <footer></footer>
+ 
+
+3. Estructuración de la pagina
+•	Header con navegación
+ 
+ 
+•	Navegación dentro de la pagina
+ 
+
+
+
+
+•	Sección con tabla, video, lista ordenada y desordenada
+ 
+•	Sección 2
+ 
+•	Footer con información personal 
+4. Validación de las páginas
+•	Index.html
+ 
+
+
+
+•	Formula1.html
+ 
+•	Nascar.html
+ 
+•	Dakar.html
+ 
+•	MotoGP.html
+ 
+•	Acercade.html 
