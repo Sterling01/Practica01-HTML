@@ -10,9 +10,9 @@ Se tiene dos secciones section en la primera sección se tiene un articulo <arti
 •	Una tabla. Con table la tabla en general tr que son las filas th y td para las columnas.
 ![alt text](https://github.com/Sterling01/Practica01-MiBlog/blob/master/informe/d.png?raw=true)<br />
 •	Un video de YouTube con la etiqueta iframe
-![alt text](https://github.com/Sterling01/Practica01-MiBlog/blob/master/informe/d.png?raw=true)<br />
+![alt text](https://github.com/Sterling01/Practica01-MiBlog/blob/master/informe/e.png?raw=true)<br />
 •	Listas ordenada y desordenadas. La lista ordenada con ul y la ordenada con ol.
-![alt text](https://github.com/Sterling01/Practica01-MiBlog/blob/master/informe/d.png?raw=true)<br />
+![alt text](https://github.com/Sterling01/Practica01-MiBlog/blob/master/informe/f.png?raw=true)<br />
 •	Cinco etiquetas de texto
 -Strong que pone el texto en negrita
 -Br que da un salto de linea 
@@ -20,7 +20,7 @@ Se tiene dos secciones section en la primera sección se tiene un articulo <arti
 -Time para representar un texto en formato de fecha u hora.
 -I Cursiva al texto
 Imágenes dentro de cada articulo
- 
+![alt text](https://github.com/Sterling01/Practica01-MiBlog/blob/master/informe/g.png?raw=true)<br /> 
 Segunda sección con un apartado <aside></aside>
  
 Pie de página con información del estudiante con <footer></footer>
