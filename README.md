@@ -1,6 +1,6 @@
 # Practica01-MiBlog
 1. Crear un repositorio en GitHub
- ![alt text](https://raw.githubusercontent.com/Sterling01/Practica01-MiBlog/master/informe/aa.png/to/img.png)
+ ![alt text](https://raw.githubusercontent.com/Sterling01/Practica01-MiBlog/master/informe/aa.png)
 2. Etiquetas HTML utilizadas
 Para la cabecera se utilizó la etiqueta <header></header> con una barra de navegación para todos los otros archivos.
  
