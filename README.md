@@ -3,7 +3,7 @@
  ![alt text](https://raw.githubusercontent.com/Sterling01/Practica01-MiBlog/master/informe/aa.png)
 2. Etiquetas HTML utilizadas
 Para la cabecera se utilizó la etiqueta <header></header> con una barra de navegación para todos los otros archivos.
- 
+ ![alt text](https://github.com/Sterling01/Practica01-MiBlog/blob/master/informe/b.png?raw=true)
 
 Para la navegación dentro de la misma página se utilizó <nav></nav> que se dirige a diferentes partes del documento mediante los identificadores.
  
