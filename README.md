@@ -1,6 +1,7 @@
-# Practica01-MiBlog
-1. Crear un repositorio en GitHub
-![alt text](https://raw.githubusercontent.com/Sterling01/Practica01-MiBlog/master/informe/aa.png)
+# Examen Computacion Paralela
+1. Multiprocessing
+![alt text](https://raw.githubusercontent.com/Sterling01/Practica01-MiBlog/master/informe/aa.png)<br />
+Se tiene un proceso productor que es el que pone como valores en una cola, partes del arreglo de números. Este proceso productor recibe la matriz y de acuerdo al numero de procesos pone en la cola las secciones de la matriz en partes iguales.
 2. Etiquetas HTML utilizadas<br />
 Para la cabecera se utilizó la etiqueta header con una barra de navegación para todos los otros archivos.<br />
 ![alt text](https://github.com/Sterling01/Practica01-MiBlog/blob/master/informe/b.png?raw=true)<br />
